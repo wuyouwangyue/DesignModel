@@ -5,3 +5,5 @@
 - **AbstractFactoryPattern 抽象工厂模式**
 
 - **SingletonPattern 单例模式**
+
+- **StrategyPattern 策略模式**
