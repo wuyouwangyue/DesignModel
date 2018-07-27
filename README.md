@@ -8,7 +8,7 @@
 
 - **StrategyPattern 策略模式**
 
-- **装饰模式**
+- **DecoratorPattern 装饰模式**
 	* 动态地给一个对象添加一些额外的职责,扩展更为灵活。
 
 
